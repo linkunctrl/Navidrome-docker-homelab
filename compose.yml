@@ -9,4 +9,4 @@ services:
       ND_SCANSCHEDULE: 1h
     volumes:
       - "./data:/data"
-      - "C:/Users/alina/Music/Navidrome music:/music:ro"
+      - "pathtoyourmusicfolder:/music:ro"
