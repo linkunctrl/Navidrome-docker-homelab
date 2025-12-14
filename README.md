@@ -16,3 +16,7 @@ nano docker-compose.yml
 
 # 3. Start the Container
 docker compose up -d
+```
+## Docker Installation:
+### Windows: https://docs.docker.com/desktop/setup/install/windows-install/
+### Linux: https://docs.docker.com/desktop/setup/install/linux/
