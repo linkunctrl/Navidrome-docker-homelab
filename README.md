@@ -12,7 +12,7 @@ cd ~/navidrome
 
 # 2. Create Docker Compose File & Deploy
 nano docker-compose.yml
-### Add the compose.yml file contents here ###
+### Add the compose.yml file contents here gang :p ###
 
 # 3. Start the Container
 docker compose up -d
